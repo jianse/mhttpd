@@ -1,9 +1,0 @@
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/CMakeFiles/mhttpd.dir
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/server/CMakeFiles/rebuild_cache.dir
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/server/CMakeFiles/server.dir
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/server/CMakeFiles/edit_cache.dir
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/config_manager/CMakeFiles/rebuild_cache.dir
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/config_manager/CMakeFiles/config_manager.dir
-/home/lenne/CLionProjects/mhttpd/cmake-build-debug/config_manager/CMakeFiles/edit_cache.dir
