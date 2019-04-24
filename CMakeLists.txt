@@ -7,12 +7,13 @@ project(mhttpd C)
 # C11 standard
 set(CMAKE_C_STANDARD 11)
 
-#添加子目录
+# 添加子目录
 add_subdirectory(server)
 add_subdirectory(config_manager)
+add_subdirectory(utils)
 
-#包含目录
-include_directories(config_manager server)
+# 头文件查找目录
+include_directories(config_manager server utils)
 
 
 # output
