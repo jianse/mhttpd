@@ -5,6 +5,7 @@
 #include "server.h"
 
 void service() {
-    get_config();
+    s_config * config=NULL;
+    get_config(config);
     printf("service on");
 }
