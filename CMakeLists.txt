@@ -20,5 +20,5 @@ include_directories(config_manager server utils)
 add_executable(mhttpd main.c)
 
 # link lib
-target_link_libraries(mhttpd server config_manager)
+target_link_libraries(mhttpd server config_manager utils)
 
